@@ -1,0 +1,14 @@
+{
+  "name": "servidor",
+  "version": "1.0.0",
+  "description": "servidor con express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jhonatan Toro Vásquez",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
